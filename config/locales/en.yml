@@ -1,0 +1,8 @@
+en:
+  label_active: Active?
+  label_project_id: Project
+  label_controller: Controller
+  label_action: Action
+  label_id: Id
+  label_argname: Extra argument name
+  label_argvalue: Extra argument value

@@ -1,0 +1,7 @@
+fr:
+  label_active: Actif?
+  label_controller: Contrôleur
+  label_action: Action
+  label_id: Id
+  label_argname: "Argument supplémentaire: nom"
+  label_argvalue: "Argument supplémentaire: valeur"

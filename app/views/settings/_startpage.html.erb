@@ -1,0 +1,28 @@
+<p>
+  <label><%= l(:label_active) %> </label>
+  <%= check_box_tag 'settings[active]', 1, @settings['active'] %>
+</p>
+<p>
+  <label><%= l(:label_controller) %></label>
+  <%= text_field_tag 'settings[controller]', @settings['controller'] %>
+</p>
+<p>
+  <label><%= l(:label_action) %></label>
+  <%= text_field_tag 'settings[action]', @settings['action'] %>
+</p>
+<p>
+  <label><%= l(:label_project_id) %></label>
+  <%= text_field_tag 'settings[project_id]', @settings['project_id'] %>
+</p>
+<p>
+  <label><%= l(:label_id) %></label>
+  <%= text_field_tag 'settings[id]', @settings['id'] %>
+</p>
+<p>
+  <label><%= l(:label_argname) %></label>
+  <%= text_field_tag 'settings[argname]', @settings['argname'] %>
+</p>
+<p>
+  <label><%= l(:label_argvalue) %></label>
+  <%= text_field_tag 'settings[argvalue]', @settings['argvalue'] %>
+</p>

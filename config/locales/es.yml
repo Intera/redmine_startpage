@@ -1,0 +1,7 @@
+es:
+  label_active: Activado?
+  label_controller: Controlador
+  label_action: Acción
+  label_id: Id
+  label_argname: Nombre del argumento extra
+  label_argvalue: Valor del argumento extra
